@@ -6,7 +6,7 @@ body{
 #container{
     background-color: bisque;
     width: 1200px;
-    margin: 20px; auto;
+    margin: 20px; auto
     border: solid 10px white;
     padding: 20px;
 }
