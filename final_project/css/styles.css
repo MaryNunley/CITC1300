@@ -1,14 +1,14 @@
 /* Global Styles */
 body {
     background-color: #fc833a;
+    background-image: url("https://png.pngtree.com/background/20230520/original/pngtree-very-scary-halloween-cemetery-surrounded-by-trees-and-gravestones-picture-image_2677552.jpg");
     text-align: center;
     font-family: "Parkinsans", sans-serif;
+    color: white;
     padding: 15px;
 }
 
-#container{
-    background-color: #b30000;
-}
+
 header {
     font-family: "Ga Maamli", sans-serif;
     font-size: 60px;
@@ -35,11 +35,11 @@ nav li{
 }
 
 nav li a {
-    color: white;
+    color: red;
 }
 
-nav li a :hover{
-    color: blue;
+nav li a:hover{
+   background-color:  black;
 }
 main{
     font-size: 20px;
@@ -59,11 +59,6 @@ img{
 .picfive{
     width: 400px;
     margin: auto;
-}
-
-.picsix{
-    width: 300px;
-    margin-right: auto;
 }
 
 .picseven{
@@ -125,7 +120,7 @@ footer{
 }
 
 /* Mobile Styles */
-@media (min-width: 320 px) {
+@media (min-width: 320px) {
 main{
     padding: 20px;
 }
