@@ -3,14 +3,14 @@ body {
     background-color: #fc833a;
     background-image: url("https://png.pngtree.com/background/20230520/original/pngtree-very-scary-halloween-cemetery-surrounded-by-trees-and-gravestones-picture-image_2677552.jpg");
     text-align: center;
-    font-family: "Parkinsans", sans-serif;
+    font-family: 'Sahitya';
     color: white;
     padding: 15px;
 }
 
 
 header {
-    font-family: "Ga Maamli", sans-serif;
+    font-family: 'Ribeye';
     font-size: 60px;
     font-weight: 900;
     text-align: center;
